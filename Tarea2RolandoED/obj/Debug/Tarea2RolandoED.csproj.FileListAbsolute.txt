@@ -1,0 +1,6 @@
+C:\Users\Rolando\documents\visual studio 2013\Projects\Tarea2RolandoED\Tarea2RolandoED\bin\Debug\Tarea2RolandoED.exe.config
+C:\Users\Rolando\documents\visual studio 2013\Projects\Tarea2RolandoED\Tarea2RolandoED\bin\Debug\Tarea2RolandoED.exe
+C:\Users\Rolando\documents\visual studio 2013\Projects\Tarea2RolandoED\Tarea2RolandoED\bin\Debug\Tarea2RolandoED.pdb
+C:\Users\Rolando\documents\visual studio 2013\Projects\Tarea2RolandoED\Tarea2RolandoED\obj\Debug\Tarea2RolandoED.exe
+C:\Users\Rolando\documents\visual studio 2013\Projects\Tarea2RolandoED\Tarea2RolandoED\obj\Debug\Tarea2RolandoED.pdb
+C:\Users\Rolando\documents\visual studio 2013\Projects\Tarea2RolandoED\Tarea2RolandoED\obj\Debug\Tarea2RolandoED.csprojResolveAssemblyReference.cache
